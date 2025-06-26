@@ -1,4 +1,4 @@
-Here is your **professional and polished writeup** in **Markdown format**, perfect for publishing on GitHub, a personal portfolio, or a cybersecurity blog:
+
 
 ---
 
