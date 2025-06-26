@@ -176,13 +176,4 @@ Best of Luck
 
 ---
 
-```
 
-Let me know if you'd like a:
-- **PDF version**
-- **HTML blog template**
-- **Jekyll/Markdown blog post**
-- **Cybersecurity portfolio format**
-
-I'll generate and format it for you instantly.
-```
